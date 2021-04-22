@@ -1,0 +1,13 @@
+{
+    "name": "Realrepp",
+    "description": "Realrepp extension to fetch linkedin user profile data!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "/realrepp.png"
+    }
+}
